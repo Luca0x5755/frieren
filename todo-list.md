@@ -140,9 +140,9 @@ S1 主述者為**芙莉蓮**（古代基礎），費倫初登場學徒身分。
 - [x] **1-00b** 建立 `S1_古代統計魔法・上\99_S1_心像真名索引.md` 空殼（僅收錄 S1 技術）
 - [x] **1-01** S1E01｜〈萬法之祖〉— Bayes' Theorem（1763）— 芙莉蓮
 - [x] **1-02** S1E02｜〈誤差三尺〉— MSE / MAE / RMSE（1809）— 芙莉蓮
-- [ ] **1-03** S1E03｜〈離群之尺・時間之鳥・間隔之蛇〉— Z-Score / Poisson / Exponential / CDF・PDF / IQR — 芙莉蓮（5 技術合篇）
-- [ ] **1-04** S1E04｜〈偏移之問・相關之繩〉— Skewness / Pearson r — 芙莉蓮
-- [ ] **1-05** S1E05｜〈獨立判印・重疊之眼〉— Chi-Square / IoU — 芙莉蓮
+- [x] **1-03** S1E03｜〈離群之尺・時間之鳥・間隔之蛇〉— Z-Score / Poisson / Exponential / CDF・PDF / IQR — 芙莉蓮（5 技術合篇）
+- [x] **1-04** S1E04｜〈偏移之問・相關之繩〉— Skewness / Pearson r — 芙莉蓮
+- [x] **1-05** S1E05｜〈獨立判印・重疊之眼〉— Chi-Square / IoU — 芙莉蓮
 - [ ] **1-06** S1E06｜〈軸線濃縮・解釋之冠〉— PCA（費倫首次主導）/ R²
 - [ ] **1-07** S1E07｜〈虛實檢定・信賴之域〉— Hypothesis Testing / CI — 芙莉蓮
 - [ ] **1-08** S1E08｜〈曲線下審判・擠壓之刃〉— AUC-ROC / Sigmoid — 芙莉蓮＋費倫
