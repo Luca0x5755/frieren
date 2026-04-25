@@ -143,14 +143,14 @@ S1 主述者為**芙莉蓮**（古代基礎），費倫初登場學徒身分。
 - [x] **1-03** S1E03｜〈離群之尺・時間之鳥・間隔之蛇〉— Z-Score / Poisson / Exponential / CDF・PDF / IQR — 芙莉蓮（5 技術合篇）
 - [x] **1-04** S1E04｜〈偏移之問・相關之繩〉— Skewness / Pearson r — 芙莉蓮
 - [x] **1-05** S1E05｜〈獨立判印・重疊之眼〉— Chi-Square / IoU — 芙莉蓮
-- [ ] **1-06** S1E06｜〈軸線濃縮・解釋之冠〉— PCA（費倫首次主導）/ R²
-- [ ] **1-07** S1E07｜〈虛實檢定・信賴之域〉— Hypothesis Testing / CI — 芙莉蓮
-- [ ] **1-08** S1E08｜〈曲線下審判・擠壓之刃〉— AUC-ROC / Sigmoid — 芙莉蓮＋費倫
-- [ ] **1-09** S1E09｜〈隨機之瞳・連語之鎖・交叉熵刃〉— Monte Carlo / N-gram / Cross-Entropy
-- [ ] **1-10** S1E10｜〈識字古術・矩陣判印〉— OCR / Confusion Matrix — 芙莉蓮
-- [ ] **1-11** S1E11｜〈下坡步法・散度之尺〉— SGD / KL Divergence
-- [ ] **1-12** S1E12｜**試煉Ⅰ〈三神判庭〉** — 整合 Hypothesis Testing+CI+Chi-Square+Confusion Matrix；場景：真偽女神像遺跡
-- [ ] **1-13** S1E13｜**試煉Ⅱ〈古代總考〉** — 對抗「謊言之魔・索菲斯」；整合 Bayes/PCA/AUC-ROC/Cross-Entropy/Confusion Matrix/SGD/KL Divergence
+- [x] **1-06** S1E06｜〈軸線濃縮・解釋之冠〉— PCA（費倫首次主導）/ R²
+- [x] **1-07** S1E07｜〈虛實檢定・信賴之域〉— Hypothesis Testing / CI — 芙莉蓮
+- [x] **1-08** S1E08｜〈曲線下審判・擠壓之刃〉— AUC-ROC / Sigmoid — 芙莉蓮＋費倫
+- [x] **1-09** S1E09｜〈隨機之瞳・連語之鎖・交叉熵刃〉— Monte Carlo / N-gram / Cross-Entropy
+- [x] **1-10** S1E10｜〈識字古術・矩陣判印〉— OCR / Confusion Matrix — 芙莉蓮
+- [x] **1-11** S1E11｜〈下坡步法・散度之尺〉— SGD / KL Divergence
+- [x] **1-12** S1E12｜**試煉Ⅰ〈三神判庭〉** — 整合 Hypothesis Testing+CI+Chi-Square+Confusion Matrix；場景：真偽女神像遺跡
+- [x] **1-13** S1E13｜**試煉Ⅱ〈古代總考〉** — 對抗「謊言之魔・索菲斯」；整合 Bayes/PCA/AUC-ROC/Cross-Entropy/Confusion Matrix/SGD/KL Divergence
 
 ---
 
