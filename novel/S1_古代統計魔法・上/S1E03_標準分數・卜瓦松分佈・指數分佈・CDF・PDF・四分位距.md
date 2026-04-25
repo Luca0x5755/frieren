@@ -1,4 +1,4 @@
-# S1E03｜〈離群之尺・時間之鳥・間隔之蛇〉—— Z-Score / Poisson / Exponential / CDF・PDF / IQR（1800s–1837／基礎）
+# S1E03｜〈標準分數・卜瓦松分佈・指數分佈・累積分佈函數・機率密度函數・四分位距〉—— Z-Score / Poisson / Exponential / CDF・PDF / IQR（1800s–1837／基礎）
 
 > 主述：芙莉蓮｜地點：邊境驛站鐘樓｜年代真名：1800s–1837
 
@@ -132,10 +132,11 @@
 
 ## 芙莉蓮的冒險筆記
 
-| 欄位 | 內容 |
-|:--|:--|
-| 技術英文全名 | Z-Score / Poisson Distribution / Exponential Distribution / Cumulative Distribution Function / Probability Density Function / Interquartile Range |
-| 簡寫 | Z / — / — / CDF / PDF / IQR |
-| 中文意譯暱稱 | 離群之尺／時間之鳥／間隔之蛇／累積之積／密度之積／四分之距 |
-| 年代 | 1800s–1837／基礎 |
-| 一句話口訣 | Z>3 判離群;Poisson 看次數、Exponential 看間隔,兩者對偶;CDF 是 PDF 的積分,單點密度不是機率;IQR 不假設常態,與 Z 雙保險。 |
+| 欄位 | Z | Poisson | Exp | CDF | PDF | IQR |
+|:--|:--|:--|:--|:--|:--|:--|
+| 技術英文全名 | Z-Score | Poisson Distribution | Exponential Distribution | Cumulative Distribution Function | Probability Density Function | Interquartile Range |
+| 簡寫 | — | — | — | CDF | PDF | IQR |
+| 中文技術名稱 | 標準分數 | 卜瓦松分佈 | 指數分佈 | 累積分佈函數 | 機率密度函數 | 四分位距 |
+| 年代 | 1800s | 1837 | 1837 | 基礎 | 基礎 | 基礎 |
+| 描述 | 衡量資料點離平均值多少個標準差,假設常態。 | 描述單位時間內事件「次數」的離散分佈,參數 λ。 | 描述事件「間隔」的連續分佈,與 Poisson 共用 λ。 | PDF 的積分,給「不超過 x」的累積機率。 | 機率密度,連續分佈下單點密度非機率。 | Q3 與 Q1 之差,衡量資料分散與離群,不假設常態。 |
+| 一句話口訣 | Z=(X−μ)/σ;Z≥3 判離群。 | 看次數、離散,λ 為平均發生率。 | 看間隔、連續,與 Poisson 對偶。 | CDF=∫PDF dt,給累積機率。 | PDF 是 CDF 的導數,單點密度不是機率。 | IQR=Q3−Q1,1.5 倍外為離群,與 Z 雙保險。 |

@@ -1,4 +1,4 @@
-# S1E11｜〈下坡步法・散度之尺〉—— Stochastic Gradient Descent / KL Divergence（1951）
+# S1E11｜〈隨機梯度下降・KL 散度〉—— Stochastic Gradient Descent / KL Divergence（1951）
 
 > 主述：費倫＋芙莉蓮｜地點：山谷階地｜年代真名：1951
 
@@ -124,10 +124,11 @@
 
 ## 芙莉蓮的冒險筆記
 
-| 欄位 | 內容 |
-|:--|:--|
-| 技術英文全名 | Stochastic Gradient Descent / KL Divergence |
-| 簡寫 | SGD / — |
-| 中文意譯暱稱 | 下坡步法／散度之尺 |
-| 年代 | 1951 |
-| 一句話口訣 | SGD 1951 隨機抽樣沿梯度下坡,無內建 Momentum 需手動加(Adam 才內建);分佈差用 KL Divergence 不用 MSE,KL(P‖Q) 不對稱,可偵測 Data Drift。 |
+| 欄位 | SGD | KL |
+|:--|:--|:--|
+| 技術英文全名 | Stochastic Gradient Descent | KL Divergence |
+| 簡寫 | SGD | — |
+| 中文技術名稱 | 隨機梯度下降 | KL 散度 |
+| 年代 | 1951 | 1951 |
+| 描述 | 每次抽一小批樣本沿梯度更新權重,便宜又快的優化演算法。 | 衡量兩個機率分佈差距的不對稱量度,P 真實 Q 預測。 |
+| 一句話口訣 | 隨機抽樣沿梯度下坡;無內建 Momentum 需手動加(Adam 才內建)。 | 分佈差用 KL 不用 MSE;KL(P‖Q) 不對稱;可偵測 Data Drift(伏筆)。 |
